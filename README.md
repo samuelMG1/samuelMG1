@@ -1,7 +1,7 @@
 
   
 
-### <div align="left">I'm Samuel, a full-time Data scientist and cybersecurity 👨‍💻</div>  
+### <div align="left">I'm Samuel.
   
 
 - 🔭 I’m currently working on ML 
