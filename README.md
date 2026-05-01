@@ -51,7 +51,7 @@ data and behavioral patterns into actionable intelligence.
 - Outcome: Reduced input waste by ~20% in test deployment
 - [View Repo](#) | [Live Demo](#)
 
-### Customer Churn Prediction — Pay-as-you-go Solar
+### Customer Churn Prediction —
 > Predicts churn risk for 
 > behavior and usage patterns, supporting retention strategy
 - Stack: Python, XGBoost, Pandas, MySQL
