@@ -20,14 +20,6 @@
 
 ---
 
-## Why I Build for Impact
-
-Agriculture and energy access are Africa's most critical
-challenges. I apply machine learning to build systems that
-help smallholder farmers make smarter decisions, optimize
-resource use, and improve livelihoods — turning field sensor
-data and behavioral patterns into actionable intelligence.
-
 ---
 
 ## Tech Stack
